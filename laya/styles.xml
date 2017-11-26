@@ -1,0 +1,28 @@
+<res>
+   <item name="res/alert/public/alert_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0"/>
+   <item name="res/alert/rank/text_award.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_betcoid.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_player.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_rank.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_result.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_time.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/recharge/tab_bg.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/recharge/input_bg.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/game/play/area_bg.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/start/preload_pro_bar.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/preload_pro_bg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/font/font_power.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/font/font_recharge.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/font/font_result.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/font/font_win.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/start_pro_bar.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/start_pro_bg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/start_bg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/start_ani.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/star.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/start/notice.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/result/panel.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_nickname.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/alert/rank/text_trend.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/start/icon_beta.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+</res>

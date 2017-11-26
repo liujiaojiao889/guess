@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<font>
+  <info face="微软雅黑" size="66" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="2,2" outline="0"/>
+  <common lineHeight="66" base="26" scaleW="207" scaleH="204" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <pages>
+    <page id="0" file="font_power.png" />
+  </pages>
+  <chars count="10">
+      <char id="48" x="0" y="68" width="49" height="66" xoffset="0" yoffset="0" xadvance="49" page="0" chnl="15" />
+      <char id="49" x="50" y="136" width="32" height="66" xoffset="0" yoffset="0" xadvance="32" page="0" chnl="15" />
+      <char id="50" x="0" y="136" width="48" height="66" xoffset="0" yoffset="0" xadvance="48" page="0" chnl="15" />
+      <char id="51" x="0" y="0" width="50" height="66" xoffset="0" yoffset="0" xadvance="50" page="0" chnl="15" />
+      <char id="52" x="52" y="0" width="50" height="66" xoffset="0" yoffset="0" xadvance="50" page="0" chnl="15" />
+      <char id="53" x="51" y="68" width="49" height="66" xoffset="0" yoffset="0" xadvance="49" page="0" chnl="15" />
+      <char id="54" x="104" y="0" width="50" height="66" xoffset="0" yoffset="0" xadvance="50" page="0" chnl="15" />
+      <char id="55" x="102" y="68" width="49" height="66" xoffset="0" yoffset="0" xadvance="49" page="0" chnl="15" />
+      <char id="56" x="156" y="0" width="49" height="66" xoffset="0" yoffset="0" xadvance="49" page="0" chnl="15" />
+      <char id="57" x="156" y="68" width="49" height="66" xoffset="0" yoffset="0" xadvance="49" page="0" chnl="15" />
+  </chars>
+</font>
